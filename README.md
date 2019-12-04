@@ -29,5 +29,8 @@ Projecte Structure
 ├── ...
 
 
-To run all features:
+To run all features for Browser Automation
 npm run cucumber-features
+
+To run Test Cases 2 :
+node app.js
