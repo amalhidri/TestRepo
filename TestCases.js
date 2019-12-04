@@ -11,7 +11,13 @@ function Substraction (a, b){
     return a-b;
 }
 
+
+function Multiplication (a, b){
+    return a*b;
+}
+
 module.exports={Modulo,
     Addition,
-    Substraction
+    Substraction, 
+    Multiplication
 };
