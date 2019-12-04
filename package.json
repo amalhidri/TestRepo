@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/amalhidri/TestRepo/issues"
   },
-  "homepage": "https://github.com/amalhidri/TestRepo#readme"
+  "homepage": "https://github.com/amalhidri/TestRepo#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^78.0.1",
+    "cucumber": "^6.0.5",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
 }
